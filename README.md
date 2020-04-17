@@ -4,8 +4,8 @@ TTU-themed whatsapp skin
 
 Install Stylus Chrome web extension here: https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne?hl=en
 
-Click Stylus extension icon, click 'Manage'
+Click Stylus extension icon, click 'Write style for: web.whatsapp.com/this_URL'
 
-On Stylus page: click 'Write new style', copy & paste code in WAstyle.css to style code field. Enter a style name in the top left. At the bottom in 'Applies to URL' enter 'https://web.whatsapp.com/'
+On Stylus page: click 'Write new style', copy & paste code in WAstyle.css to style code field. Modify style name in the top left if you wish. Click save.
 
-If not enabled, in WhatsApp window click Stylus extenstion icon and enable style in drop-down.
+To toggle, in WhatsApp window click Stylus extenstion icon and click style checkbox in drop-down.
