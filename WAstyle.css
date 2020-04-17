@@ -25,9 +25,11 @@
 	--emoji-o: 0.8;
 	--avatar-r: 50%;
 	--bg-image: url('https://wallpaperplay.com/walls/full/6/5/2/217738.jpg');
+	/* change background image here */
 	--bg-opacity: 0.4;
 	--bg-invert: 0;
 	--chat-image: url('https://wallpaperplay.com/walls/full/6/5/2/217738.jpg');
+	/* change chat image here */
 	--chat-bg-o: 0.15;
 	--chat-bg-i: 0.6;
 	--c-m-hover: 0.6s;
